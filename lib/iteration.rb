@@ -51,5 +51,5 @@ def total_even_pairs(src)
 
  i = 0 
  while i < src.length do
-   result << 
+   if  
 end
