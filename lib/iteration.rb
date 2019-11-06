@@ -10,7 +10,7 @@ def join_ingredients(src)
   result = []
   
   i = 0 
-  src
+  while i < src.length 
     
 end
 
