@@ -12,7 +12,7 @@ def join_ingredients(src)
   i = 0 
   while i < src.length do
     inner = src(i)
-    
+    result "I love "
     
 end
 
